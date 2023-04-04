@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css2?family=Changa+One&display=swap);
+
+.cxtipografia{
+
+    font-family: 'Changa One', cursiva;
+    color: yellowgreen;
+
+}
+
+body{
+    background-image: url(http://www.radiomargherita.com/wp-content/uploads/2016/04/MUSICA.jpg);
+    display: flex;
+}
+
+
+.html{
+
+height: 100%;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+
+
+
