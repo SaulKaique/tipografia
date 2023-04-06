@@ -1,9 +1,16 @@
-@import url(https://fonts.googleapis.com/css2?family=Changa+One&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Display:wght@500&family=Delicious+Handrawn&family=Holtwood+One+SC&family=Josefin+Sans&family=Space+Mono:wght@700&display=swap);
+@import url();
+@import url();
+@import url();
+@import url();
 
-.cxtipografia{
+
+.fonte1{
 
     font-family: 'Changa One', cursiva;
     color: yellowgreen;
+
+    display: block;
 
 }
 
@@ -13,17 +20,69 @@ body{
 }
 
 
-.html{
-
-height: 100%;
+.gif1{
+    width: 7.6cm;
 
 }
 
-*{
-    margin: 0;
-    padding: 0;
-    
-    }
+.card{
+    border: 2px solid red;
+    color: #22af5d;
+
+    font-family: 'Holtwood One SC', serif;
+
+
+}
+
+.card2{
+    border: 2px solid red;
+    color: #22af5d;
+
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.card3{
+    border: 2px solid red;
+    color: #22af5d;
+
+    font-family: 'Big Shoulders Inline Display', cursive;
+
+
+}
+
+.card4{
+    border: 2px solid red;
+    color: #22af5d;
+
+    font-family: 'Delicious Handrawn', cursive;
+
+
+}
+
+.card5{
+    border: 2px solid red;
+    color: #22af5d;
+   
+    font-family: 'Space Mono', monospace;
+
+
+}
+
+
+
+.card-titulo{
+
+    text-align: center;
+
+
+}
+
+.card-texto{
+
+    text-align: center;
+
+}
 
 
 
